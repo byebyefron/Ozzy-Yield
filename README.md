@@ -3,7 +3,7 @@
 
 Loadstring:
 ```lua
-loadstring(game:HttpGet("https://github.com/fuckusfm/infiniteyield-reborn/raw/master/source"))()
+loadstring(game:HttpGet("https://github.com/byebyefron/Ozzy-Yield/blob/main/Ozzy%20Yield.txt"))()
 ```
 
 ## +400 Commands
